@@ -32,6 +32,10 @@ cacheSolve <- function(x, ...) {
        invmtx
 }
 
+
+## testing Cache difference
+
+
 inverseCalc <- function(matr) {
        
        tempMatr = makeCacheMatrix(matr)
